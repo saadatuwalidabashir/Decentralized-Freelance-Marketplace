@@ -11,3 +11,7 @@ Q
 !contracts/skill-verification.clar,4/4/44a7240980ffe328eb251d05075d9a2efdc01de0
 U
 %contracts/project-completion-nft.clar,2/a/2a71e485bf824f9915874e82638983efe8b8c3e3
+P
+ tests/skill-verification.test.ts,b/8/b8c8fbb413fb99333c512010ab2082cb114f4c6c
+T
+$tests/project-completion-nft.test.ts,5/d/5df0960de8a75384a677c2eeb5c6ee395050f105
